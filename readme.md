@@ -7,6 +7,7 @@
 ![](./assets/04.PNG)
 
 ## Live demo
+[live](https://aesthetic-moonbeam-ca686a.netlify.app/)
 
 # Tech-
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
